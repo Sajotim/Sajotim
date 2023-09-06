@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 💼 I’m working in OPPOIT（as an ops)
+#### 💼 I’m working in OPPO（as an ops)
 #### 📫 How to reach me: luogewansui@gmail.com
 <!--
 **Sajotim/Sajotim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
